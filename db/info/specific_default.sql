@@ -1,0 +1,1 @@
+select * from defaults where lower(industry) = lower($1);

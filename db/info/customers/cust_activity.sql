@@ -1,0 +1,1 @@
+select activity, last_sent from customer where c_id = $1;

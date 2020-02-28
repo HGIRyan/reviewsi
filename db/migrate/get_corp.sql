@@ -1,0 +1,1 @@
+select * from corporation where agent_id = $1;

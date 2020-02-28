@@ -1,0 +1,1 @@
+select * from company where c_id = $1;

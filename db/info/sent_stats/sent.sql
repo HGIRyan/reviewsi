@@ -1,0 +1,1 @@
+select count(*) from feedback where created >= $1;

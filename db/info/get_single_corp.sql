@@ -1,0 +1,1 @@
+select * from corporation where lower(cor_name) = lower($1);

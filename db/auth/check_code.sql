@@ -1,0 +1,1 @@
+select * from login where reset_code = $1;

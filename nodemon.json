@@ -1,0 +1,10 @@
+{
+	"restartable": "rs",
+	"ignore": [".git", "node_modules/**/node_modules", "src"],
+	"watch": ["server/", "db/"],
+	"env": {
+		"NODE_ENV": "development"
+	},
+	"runtimeArgs": ["--max-old-space-size=8096"],
+	"ext": "js,json,sql,env"
+}

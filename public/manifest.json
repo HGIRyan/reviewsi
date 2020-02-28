@@ -1,0 +1,17 @@
+{
+  "short_name": "Lift Local",
+  "name": "Lift Local Online Reputation Manager App",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#A5B0FE",
+  "background_color": "#D1D1D1",
+  "author": "Lift Local LLC",
+  "description": "Lift Local helps business owners accelerate their online presence by generating reviews to their local listing. More reviews in more places mean more calls leading to more business."
+}
