@@ -20,7 +20,7 @@
 		"express": "^4.17.1",
 		"express-session": "^1.17.0",
 		"file-saver": "^2.0.0",
-		"html-pdf": "^2.2.0",
+		"html-pdf": "^3.0.1",
 		"jquery": "^3.4.1",
 		"jsforce": "^2.0.0-alpha.10",
 		"jsonwebtoken": "^8.5.1",
