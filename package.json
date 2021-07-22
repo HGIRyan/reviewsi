@@ -54,7 +54,7 @@
 		"redux-react-session": "^2.6.0",
 		"string-similarity": "^3.0.0",
 		"styled-components": "^4.4.0",
-		"xlsx": "^0.15.5"
+		"xlsx": "^0.17.0"
 	},
 	"scripts": {
 		"start": "react-scripts start",
