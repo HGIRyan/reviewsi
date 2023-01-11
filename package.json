@@ -23,7 +23,7 @@
 		"html-pdf": "^2.2.0",
 		"jquery": "^3.4.1",
 		"jsforce": "^2.0.0-alpha.10",
-		"jsonwebtoken": "^8.5.1",
+		"jsonwebtoken": "^9.0.0",
 		"lodash": "^4.17.15",
 		"massive": "^5.7.6",
 		"materialize-css": "^1.0.0-rc.2",
